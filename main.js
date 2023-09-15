@@ -1,6 +1,7 @@
 import './style.css';
 import javascriptLogo from './javascript.svg';
 import viteLogo from '/vite.svg';
+// `./assets/pic/demo.png` can be parsed normally on macOS
 import imgDemo from './assets/pic/demo.png';
 import { setupCounter } from './counter.js';
 
